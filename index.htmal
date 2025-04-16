@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>موقعي التجاري</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>مرحبا بك في أعمالي</h1>
+    <p>خدمات احترافية بجودة عالية</p>
+  </header>
+  <section>
+    <h2>من نحن</h2>
+    <p>نحن نقدم خدمات تصميم، تسويق، وتطوير برمجيات مميزة لعملائنا.</p>
+  </section>
+  <footer>
+    <p>تواصل معنا: nm5492099@email.com</p>
+  </footer>
+</body>
+</html>
